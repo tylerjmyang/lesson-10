@@ -6,3 +6,12 @@ body{
 div{
     margin-bottom: 20px;
 }
+
+.photos{
+    margin: auto;
+    height: 300px;
+    width: 300px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
